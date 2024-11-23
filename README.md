@@ -1,4 +1,4 @@
-![Introduction](/metrics.repository.svg)
+![Introduction](/metrics.classic.svg)
 
 ![Habits](/metrics.plugin.habits.charts.svg)
 

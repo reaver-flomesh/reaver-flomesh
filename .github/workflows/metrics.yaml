@@ -15,6 +15,7 @@ jobs:
       contents: write
     steps:
       - name: User introduction
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}

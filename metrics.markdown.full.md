@@ -27,14 +27,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [The &#39;Return to Office&#39; Lies](https://blog.avas.space/rto/)
+  * *Published on 23 Nov 2024*
 * [Highest-resolution images ever captured of the sun’s entire surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
   * *Published on 23 Nov 2024*
 * [Size and albedo of the largest detected Oort-cloud object](https://arxiv.org/abs/2201.13188)
   * *Published on 23 Nov 2024*
-* [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
-  * *Published on 19 Nov 2024*
-* [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
-  * *Published on 23 Nov 2024*
+* [Writes Large Correct Programs (2008)](https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/)
+  * *Published on 18 Nov 2024*
 
 
 ___

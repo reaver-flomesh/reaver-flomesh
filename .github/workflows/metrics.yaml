@@ -19,8 +19,3 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Shanghai
           config_presets: "@ocean-blue"
-          base: header
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_stars: yes
-          config_order: base.header, isocalendar, languages

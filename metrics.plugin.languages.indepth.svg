@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.7mb of code in 7103 edited files across 510 commits</small>
+                <small>estimation from 14.7mb of code in 7104 edited files across 511 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.3628017784896" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="441.3628017784896" y="0" width="16.46521592157884" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="457.8280177000684" y="0" width="1.566529430202173" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.39454713027055" y="0" width="0.6054528697294136" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.35573516274656" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="441.35573516274656" y="0" width="16.464952298651" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="457.8206874613976" y="0" width="1.5665043486559063" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.3871918100535" y="0" width="0.6128081899465331" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -72,11 +72,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Smarty
+                                Ruby
                             </div>
                             <small>
-                                <div>331 lines</div>
-                                <div>12.4 kB</div>
+                                <div>197 lines</div>
+                                <div>12.5 kB</div>
                             </small>
                         </div>
                     </section>

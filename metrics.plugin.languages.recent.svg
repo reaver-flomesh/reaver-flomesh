@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.54mb of code in 1311 edited files across 278 commits over last 14 days</small>
+                <small>estimation from 1.42mb of code in 1170 edited files across 277 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.6119991447232" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="444.6119991447232" y="0" width="8.710540638606677" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.32253978332994" y="0" width="3.6488894360356627" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="456.9714292193656" y="0" width="3.02857078063446" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.7185542809053" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="444.7185542809053" y="0" width="9.527217965185809" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.2457722460911" y="0" width="3.3125215927714042" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="457.55829383886254" y="0" width="2.4417061611374407" height="8" fill="#f0c040"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 Go
                             </div>
                             <small>
-                                <div>1.19 MB</div>
-                                <div>96.65%</div>
+                                <div>1.09 MB</div>
+                                <div>96.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Smarty
+                                Ruby
                             </div>
                             <small>
-                                <div>9.79 kB</div>
-                                <div>0.79%</div>
+                                <div>8.13 kB</div>
+                                <div>0.72%</div>
                             </small>
                         </div>
                     </section>
@@ -64,19 +64,19 @@
                             </div>
                             <small>
                                 <div>23.3 kB</div>
-                                <div>1.89%</div>
+                                <div>2.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Ruby
+                                Smarty
                             </div>
                             <small>
-                                <div>8.13 kB</div>
-                                <div>0.66%</div>
+                                <div>5.99 kB</div>
+                                <div>0.53%</div>
                             </small>
                         </div>
                     </section>

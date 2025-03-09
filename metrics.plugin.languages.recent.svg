@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 970kb of code in 1062 edited files across 314 commits over last 9 days</small>
+                <small>estimation from 812kb of code in 900 edited files across 323 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.80889265637876" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="418.80889265637876" y="0" width="22.418752843125255" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="441.22764549950404" y="0" width="15.707497446896358" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.9351429464004" y="0" width="3.0648570535996478" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.35531545277877" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="422.35531545277877" y="0" width="30.522653112773273" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="452.87796856555207" y="0" width="4.323963482841987" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="457.20193204839404" y="0" width="2.798067951606002" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 Go
                             </div>
                             <small>
-                                <div>498 kB</div>
-                                <div>91.05%</div>
+                                <div>356 kB</div>
+                                <div>91.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                Ruby
                             </div>
                             <small>
-                                <div>18.6 kB</div>
-                                <div>3.41%</div>
+                                <div>3.65 kB</div>
+                                <div>0.94%</div>
                             </small>
                         </div>
                     </section>
@@ -63,20 +63,20 @@
                                 Smarty
                             </div>
                             <small>
-                                <div>26.6 kB</div>
-                                <div>4.87%</div>
+                                <div>25.7 kB</div>
+                                <div>6.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Ruby
+                                C
                             </div>
                             <small>
-                                <div>3.65 kB</div>
-                                <div>0.67%</div>
+                                <div>2.36 kB</div>
+                                <div>0.61%</div>
                             </small>
                         </div>
                     </section>

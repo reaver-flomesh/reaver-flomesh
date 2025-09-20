@@ -1,3 +1,3 @@
 
 
-![Achievement](/metrics.plugin.achievements.compact.svg)
+![Github Metrics](/github-metrics.svg)

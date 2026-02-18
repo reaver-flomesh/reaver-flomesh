@@ -3,6 +3,8 @@
 
 *Building scalable systems with design thinking and hands-on execution.*
 
+> Simplicity over complexity. Automate everything.
+
 ---
 
 ## 🧰 Tech Stack

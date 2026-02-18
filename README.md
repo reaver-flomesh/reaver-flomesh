@@ -1,21 +1,21 @@
 # reaver-flomesh
-🛠️ 20年架构师 | 云原生基础设施 | 分布式系统
+🛠️ 20 Years Architect | Cloud Native Infrastructure | Distributed Systems
 
 ---
 
-## 🧰 技术栈
+## 🧰 Tech Stack
 
-### ☁️ 云原生 / 基础设施
+### ☁️ Cloud Native / Infrastructure
 Kubernetes · Istio · Linkerd · Terraform · Service Mesh · GitOps
 
-### ⚙️ 后端开发
-Go · Java · Python · 微服务 · REST · gRPC
+### ⚙️ Backend Development
+Go · Java · Python · Microservices · REST · gRPC
 
-### 📊 分布式系统 / 数据库
-分布式架构 · 数据建模 · 高可用设计 · 缓存策略
+### 📊 Distributed Systems / Database
+Distributed Architecture · Data Modeling · High Availability Design · Caching Strategies
 
-### 💻 前端
-TypeScript · React · 现代前端架构
+### 💻 Frontend
+TypeScript · React · Modern Frontend Architecture
 
 ---
 

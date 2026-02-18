@@ -1,12 +1,14 @@
 # reaver-flomesh
 🛠️ 20 Years Architect | Cloud Native Infrastructure | Distributed Systems
 
+*Building scalable systems with design thinking and hands-on execution.*
+
 ---
 
 ## 🧰 Tech Stack
 
 ### ☁️ Cloud Native / Infrastructure
-Kubernetes · Istio  · Terraform · Service Mesh · GitOps · GatewayAPI
+Kubernetes · Istio · Terraform · Service Mesh · GitOps · Gateway API
 
 ### ⚙️ Backend Development
 Go · Java · Microservices · REST · gRPC
@@ -15,6 +17,6 @@ Go · Java · Microservices · REST · gRPC
 Distributed Architecture · Data Modeling · High Availability Design · Caching Strategies
 
 ### 💻 Frontend
-TypeScript/Javascript · Tailwind · Vue · Modern Frontend Architecture
+TypeScript · JavaScript · Vue · Tailwind · Modern Frontend Architecture
 
 ---

@@ -10,7 +10,7 @@
 ## 🧰 Tech Stack
 
 ### 🤖 AI Coding
-Cursor · Copilot · Windsurf · Prompt Engineering
+Claude Code · Opencode · Copilot · Skills · MCP
 
 ### ☁️ Cloud Native / Infrastructure
 Kubernetes · Istio · Terraform · Service Mesh · GitOps · Gateway API
